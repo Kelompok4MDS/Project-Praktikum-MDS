@@ -1,6 +1,6 @@
 # Project-Praktikum-MDS
 ## English Premiere League
-![alt text](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/[branch]/image.jpg?raw=true)
+![ERD Liga Inggris]([https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/[branch]/image.jpg?raw=true](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/ERD%20Liga%20Inggris.png))
 ## {Deskripsi liga inggris (belum)}
 
 ### Deskripsi Tabel

@@ -1,10 +1,14 @@
 # Project-Praktikum-MDS
 ## English Premiere League
-![ERD Liga Inggris]([https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/[branch]/image.jpg?raw=true](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/ERD%20Liga%20Inggris.png))
+![Logo Liga Inggris](https://img1.cgtrader.com/items/2993191/16987f1126/english-premier-league-logo-3d-model-obj-fbx-ma-stl-ztl.jpg)
+
 ## {Deskripsi liga inggris (belum)}
+### blablablabla
+
+## ERD Database Liga Inggris
+![ERD Database Liga Inggris](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/ERD%20Liga%20Inggris.png?raw=true "ERD DatabaseLiga Inggris")
 
 ### Deskripsi Tabel
-
 #### 1. Tabel `teams`
 #### Terdiri dari 20 tim liga inggris :
 - `id_team` : smallint, primary key (not null)

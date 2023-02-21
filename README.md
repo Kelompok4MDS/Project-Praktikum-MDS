@@ -1,4 +1,10 @@
 # Project-Praktikum-MDS
+### Collaborative Project By:
+- `Arien Citha Utami` `(G1501221008)`
+- `Siti Hasanah` `(G1501221014)`
+- `Muhammad Hasan Itqoni` `(G1501221029)`
+- `Elda Hervina Siagian` `(G1501222050)`
+
 ## English Premiere League
 ![Logo Liga Inggris](https://img1.cgtrader.com/items/2993191/16987f1126/english-premier-league-logo-3d-model-obj-fbx-ma-stl-ztl.jpg)
 

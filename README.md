@@ -8,10 +8,10 @@
 ## English Premiere League
 ![Logo Liga Inggris](https://img1.cgtrader.com/items/2993191/16987f1126/english-premier-league-logo-3d-model-obj-fbx-ma-stl-ztl.jpg)
 
-## {Deskripsi liga inggris (belum)}
-### blablablabla
+## Deskripsi English Premiere League
+#### Melansir dari World Atlas, sepak bola menjadi cabang olahraga paling populer di dunia dengan jumlah penggemar mencapai 4 miliar orang. 
 
-## ERD Database Liga Inggris
+## ERD Database English Premiere League
 ![ERD Database Liga Inggris](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/ERD%20Liga%20Inggris.png?raw=true "ERD DatabaseLiga Inggris")
 
 ### Deskripsi Tabel

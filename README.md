@@ -1,5 +1,5 @@
 # Project-Praktikum-MDS
-### Collaborative Project By:
+### Collaborative Project by:
 - `Arien Citha Utami` `(G1501221008)`
 - `Siti Hasanah` `(G1501221014)`
 - `Muhammad Hasan Itqoni` `(G1501221029)`
@@ -9,7 +9,11 @@
 ![Logo Liga Inggris](https://img1.cgtrader.com/items/2993191/16987f1126/english-premier-league-logo-3d-model-obj-fbx-ma-stl-ztl.jpg)
 
 ## Deskripsi English Premiere League
-#### Melansir dari World Atlas, sepak bola menjadi cabang olahraga paling populer di dunia dengan jumlah penggemar mencapai 4 miliar orang. 
+*Premier League* atau yang biasa disingkat EPL (*English Premier League*) adalah kompetisi sepak bola paling terkenal di Inggris dan salah satu liga terbaik di dunia. Liga ini terdiri dari 20 klub yang berkompetisi untuk memperebutkan gelar juara dan posisi di papan atas klasemen. Premier League didirikan pada tahun 1992 dan sejak saat itu telah menjadi liga yang sangat populer di seluruh dunia. 
+
+Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Setiap klub bermain 38 pertandingan (hanya digunakan 24 pertandingan dalam studi kasus Manajemen Data Statistika) sepanjang musim, dengan pertandingan kandang dan tandang melawan masing-masing klub lainnya. Sistem poin yang digunakan dalam *Premier League* adalah tiga poin untuk kemenangan, satu poin untuk hasil imbang, dan nol poin untuk kekalahan. Klub dengan jumlah poin tertinggi di akhir musim akan menjadi juara, sedangkan tiga klub terbawah akan terdegradasi ke divisi yang lebih rendah. 
+
+*Premier League* menarik minat para penggemar sepak bola karena kualitas permainannya yang tinggi dan kehadiran beberapa pemain terbaik di dunia. Liga ini juga menawarkan pengalaman stadion yang unik dan atmosfer yang luar biasa. Selain itu, *Premier League* adalah liga yang sangat kaya, dengan beberapa klub memiliki anggaran yang sangat besar dan mampu membeli pemain-pemain bintang dengan harga yang sangat tinggi. Hal ini membuat liga semakin menarik dan kompetitif, karena setiap klub ingin menjadi yang terbaik dan meraih gelar juara.
 
 ## ERD Database English Premiere League
 ![ERD Database Liga Inggris](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/ERD%20Liga%20Inggris.png?raw=true "ERD DatabaseLiga Inggris")

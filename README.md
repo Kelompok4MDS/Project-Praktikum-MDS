@@ -1,22 +1,75 @@
-# Project-Praktikum-MDS
-### Collaborative Project by:
-- `Arien Citha Utami` `(G1501221008)`
-- `Siti Hasanah` `(G1501221014)`
-- `Muhammad Hasan Itqoni` `(G1501221029)`
-- `Elda Hervina Siagian` `(G1501222050)`
+<div align="center">
 
 ## English Premiere League
 ![Logo Liga Inggris](https://img1.cgtrader.com/items/2993191/16987f1126/english-premier-league-logo-3d-model-obj-fbx-ma-stl-ztl.jpg)
 
-## Deskripsi English Premiere League
+# Project-Praktikum-MDS
+  
+### Collaborative Project by:
+- `Arien Citha Utami` `(G1501221008)`
+- `Siti Hasanah` `(G1501221014)`
+- `Muhammad Hasan Itqoni` `(G1501221029)`
+- `Elda Hervina Siagian` `(G1501222050)` 
+
+[Tentang](#scroll-overview)
+•
+[Screenshot](#rice_scene-screenshot)
+•
+[Demo](#dvd-demo)
+•
+[Dokumentasi](#blue_book-documentation)
+
+</div>
+
+## :bookmark_tabs: Menu
+
+- [Tentang](#scroll-overview)
+- [Screenshot](#rice_scene-screenshot)
+- [Demo](#dvd-demo)
+- [Dokumentasi](#blue_book-documentation)
+- [Requirements](#exclamation-requirements)
+- [Skema Database](#floppy_disk-skema-database)
+- [ERD](#rotating_light-erd)
+- [Deskripsi Data](#heavy_check_mark-deskripsi-data)
+- [Struktur Folder](#open_file_folder-stuktur-folder)
+- [Tim Pengembang](#smiley_cat-tim-pengembang)
+
+## :scroll: Tentang
+
 *Premier League* atau yang biasa disingkat EPL (*English Premier League*) adalah kompetisi sepak bola paling terkenal di Inggris dan salah satu liga terbaik di dunia. Liga ini terdiri dari 20 klub yang berkompetisi untuk memperebutkan gelar juara dan posisi di papan atas klasemen. Premier League didirikan pada tahun 1992 dan sejak saat itu telah menjadi liga yang sangat populer di seluruh dunia. 
 
 Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Setiap klub bermain 38 pertandingan (hanya digunakan 24 pertandingan dalam studi kasus Manajemen Data Statistika) sepanjang musim, dengan pertandingan kandang dan tandang melawan masing-masing klub lainnya. Sistem poin yang digunakan dalam *Premier League* adalah tiga poin untuk kemenangan, satu poin untuk hasil imbang, dan nol poin untuk kekalahan. Klub dengan jumlah poin tertinggi di akhir musim akan menjadi juara, sedangkan tiga klub terbawah akan terdegradasi ke divisi yang lebih rendah. 
 
 *Premier League* menarik minat para penggemar sepak bola karena kualitas permainannya yang tinggi dan kehadiran beberapa pemain terbaik di dunia. Liga ini juga menawarkan pengalaman stadion yang unik dan atmosfer yang luar biasa. Selain itu, *Premier League* adalah liga yang sangat kaya, dengan beberapa klub memiliki anggaran yang sangat besar dan mampu membeli pemain-pemain bintang dengan harga yang sangat tinggi. Hal ini membuat liga semakin menarik dan kompetitif, karena setiap klub ingin menjadi yang terbaik dan meraih gelar juara.
 
+
+## :rice_scene: Screenshot
+
+![Logo](https://via.placeholder.com/750x500)
+
+## :dvd: Demo
+
+http://hasanahstat.shinyapps.io/SepakBola
+
+## :blue_book: Dokumentasi 
+
+Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi lives menggunakan readthedocs.org (opsional).
+
+## :exclamation: Requirements
+
+- Cantumkan paket R yang digunakan
+- RDBMS yang digunakan
+- [Node](https://nodejs.org/en/download/)
+- [PHP](https://php.net/)
+
+## :floppy_disk: Skema Database
+
+<img width="242" alt="skema update" src="https://user-images.githubusercontent.com/111562803/223139863-0f7b7950-6586-49aa-9e6c-5c756d2a0375.png">
+
+
 ## ERD Database English Premiere League
 ![ERD Database Liga Inggris](https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/ERD%20Liga%20Inggris.png?raw=true "ERD DatabaseLiga Inggris")
+
 
 ### Deskripsi Tabel
 #### 1. Tabel `teams`
@@ -65,3 +118,9 @@ Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Seti
 - `goals` : smallint (not null)
 - `assist` : smallint (not null)
 
+
+
+## :smiley_cat: Tim Pengembang
+
+- [@walternascimentobarroso](https://walternascimentobarroso.github.io/)
+- Full-Stack Developer: [Siti Hasanah & Arien Citha Utami ]

@@ -123,4 +123,4 @@ Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi li
 ## :smiley_cat: Tim Pengembang
 
 - [@walternascimentobarroso](https://walternascimentobarroso.github.io/)
-- Full-Stack Developer: [Siti Hasanah & Arien Citha Utami ]
+- Full-Stack Developer: [Siti Hasanah & Arien Citha Utami]

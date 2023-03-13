@@ -67,7 +67,7 @@ dashboardPage(
         h2('English Premier League', align = 'center'),
         tags$p(
           
-        'Premier League atau yang biasa disingkat EPL (English Premier League)
+          'Premier League atau yang biasa disingkat EPL (English Premier League)
         adalah kompetisi sepak bola paling terkenal di Inggris dan salah satu
         liga terbaik di dunia. Liga ini terdiri dari 20 klub yang berkompetisi
         untuk memperebutkan gelar juara dan posisi di papan atas klasemen.
@@ -81,7 +81,7 @@ dashboardPage(
         kemenangan, satu poin untuk hasil imbang, dan nol poin untuk kekalahan.
         Klub dengan jumlah poin tertinggi di akhir musim akan menjadi juara,
         sedangkan tiga klub terbawah akan terdegradasi ke divisi yang lebih rendah.',
-        style = "text-align: justify; font-size = 25px"
+          style = "text-align: justify; font-size = 25px"
         ),
         
         h2('Teams of the League', align = 'center'),

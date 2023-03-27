@@ -46,24 +46,31 @@ Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Seti
 ## :rice_scene: Screenshot
 
 ### About
+Tab "About" pada shinyapps digunakan untuk melihat gambaran umum dari data yang dimiliki. Tab ini juga menjelaskan nama-nama tim yang bertanding dalam English Premiere League.
 ![About]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/about.png)
 
 ## Daftar Pertandingan
+Tab "Daftar Pertandingan" menjelaskan waktu pertandingan berikut tim dan jumlah penonton yang diperkirakan datang menuju stadion.
 ![Daftar Pertandingan]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/daftar_pertandingan.png)
 
 ## Daftar Pemain
+Tab "Daftar Pemain" menjelaskan secara rinci informasi terkait pemain seperti nama, usia, posisi, dan asal negara.
 ![Daftar Pemain]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/daftar_pemain.png)
 
 ## Hasil Pertandingan
+Tab "Hasil Pertandingan" menjelaskan score "home" dan "away" dari setiap laga. Ini juga bisa digunakan untuk menentukan klasemen dari 20 tim yang bertanding.
 ![Hasil Pertandingan]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/hasil_pertandingan.png)
 
 ## Goal & Assist
+Tab "Goal & Assist" menjelaskan jumlah goal dan usaha untuk mencapai goal setiap pertandingan.
 ![Goal & Assist]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/goal&assist.png)
 
 ## Stadion
+Tab "Stadion" berisi informasi terkait nama stadion dan kapasitas stadion.
 ![Stadion]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/stadion.png)
 
 ## Tim Liga Inggris
+Tab "Tim Liga Inggris" berisi informasi dua puluh tim yang ikut bertanding berikut kode tim masing-masing.
 ![Tim Liga Inggris]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/tim_liga_inggris.png)
 
 ## :dvd: Demo

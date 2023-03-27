@@ -224,7 +224,7 @@ dashboardPage(
             valueBox(
               tags$p('Manchester City', style = 'font-size: 35%;text-align: center;'),
               div(img(
-                src = 'manchester-City.png',
+                src = 'manchester-city.png',
                 height = '90',
                 width = '90'
               ), style = 'text-align: center;'),

@@ -123,7 +123,7 @@ Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi li
 
 ## :smiley_cat: Tim Pengembang
 
-- Arien Citha Utami : Front End Developer
-- Siti Hasanah : Back End Developer
-- Muhammad Hasan Itqoni : Database Manager
-- Elda Hervina Siagian : Technical Writer
+- Arien Citha Utami (G1501221008) : Front End Developer
+- Siti Hasanah (G1501221014) : Back End Developer
+- Muhammad Hasan Itqoni (G1501221029) : Database Manager
+- Elda Hervina Siagian (G1501222050) : Technical Writer

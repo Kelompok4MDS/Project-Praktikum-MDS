@@ -13,10 +13,8 @@
 
 [Tentang](#scroll-overview)
 •
-  
 [Screenshot](#rice_scene-screenshot)
-![About]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/about.png)
-  
+•
 [Demo](#dvd-demo)
 •
 [Dokumentasi](#blue_book-documentation)
@@ -47,7 +45,7 @@ Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Seti
 
 ## :rice_scene: Screenshot
 
-![Logo](https://via.placeholder.com/750x500)
+![About]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/about.png)
 
 ## :dvd: Demo
 

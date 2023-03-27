@@ -79,13 +79,13 @@ Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi li
 ### Package
 
 Package yang digunakan dalam tugas Manajemen Data Statistika ini diantaranya sebagai berikut:
-library(shiny)
-library(shinydashboard)
-library(RPostgreSQL)
-library(DBI)
-library(DT)
-library(fontawesome)
-library(shinythemes)
+- library(shiny)
+- library(shinydashboard)
+- library(RPostgreSQL)
+- library(DBI)
+- library(DT)
+- library(fontawesome)
+- library(shinythemes)
 
 ## :floppy_disk: Skema Database
 

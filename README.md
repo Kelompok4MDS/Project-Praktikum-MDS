@@ -58,10 +58,16 @@ Dokumentasi penggunaan aplikasi database. Anda dapat juga membuat dokumentasi li
 
 ## :exclamation: Requirements
 
-- Cantumkan paket R yang digunakan
-- RDBMS yang digunakan
-- [Node](https://nodejs.org/en/download/)
-- [PHP](https://php.net/)
+### Package
+
+Package yang digunakan dalam tugas Manajemen Data Statistika ini diantaranya sebagai berikut:
+library(shiny)
+library(shinydashboard)
+library(RPostgreSQL)
+library(DBI)
+library(DT)
+library(fontawesome)
+library(shinythemes)
 
 ## :floppy_disk: Skema Database
 

@@ -13,8 +13,10 @@
 
 [Tentang](#scroll-overview)
 •
+  
 [Screenshot](#rice_scene-screenshot)
-•
+![About]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/about.png)
+  
 [Demo](#dvd-demo)
 •
 [Dokumentasi](#blue_book-documentation)

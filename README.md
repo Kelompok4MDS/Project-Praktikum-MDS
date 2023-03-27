@@ -48,6 +48,24 @@ Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Seti
 ### About
 ![About]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/about.png)
 
+## Daftar Pertandingan
+![Daftar Pertandingan]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/daftar_pertandingan.png)
+
+## Daftar Pemain
+![Daftar Pemain]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/daftar_pemain.png)
+
+## Hasil Pertandingan
+![Hasil Pertandingan]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/hasil_pertandingan.png)
+
+## Goal & Assist
+![Goal & Assist]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/goal&assist.png)
+
+## Stadion
+![Stadion]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/stadion.png)
+
+## Tim Liga Inggris
+![Tim Liga Inggris]( https://github.com/Kelompok4MDS/Project-Praktikum-MDS/blob/main/tim_liga_inggris.png)
+
 ## :dvd: Demo
 
 [https://cithautami.shinyapps.io/sepakbola/]
@@ -124,8 +142,6 @@ library(shinythemes)
 - `id_player` : smallint, foreign key (referensi dari players.id_player) (not null)
 - `goals` : smallint (not null)
 - `assist` : smallint (not null)
-
-
 
 ## :smiley_cat: Tim Pengembang
 

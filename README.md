@@ -50,7 +50,7 @@ Setiap musim, 20 klub yang terbaik di Inggris bersaing dalam kompetisi ini. Seti
 
 ## :dvd: Demo
 
-http://hasanahstat.shinyapps.io/SepakBola
+[https://cithautami.shinyapps.io/sepakbola/]
 
 ## :blue_book: Dokumentasi 
 

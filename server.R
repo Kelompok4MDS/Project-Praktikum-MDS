@@ -23,7 +23,7 @@ function(input, output, session) {
   output$tblMatches <- renderDataTable({
     DB <- connectDB()
     #matches<-dbReadTable(DB, 'matches')
-    q <- "SELECT * from matches;"
+    q <- "SELECT id_match, s.full_name AS stadium, date_time, attendance from stadiums as s, matches;"
     # request kueri ke DBMS
     rs <- dbGetQuery(DB, q)
     dbDisconnect(DB)
@@ -33,10 +33,12 @@ function(input, output, session) {
   
   output$tblPlayers <- renderDataTable({
     DB <- connectDB()
-    players<-dbReadTable(DB, 'players')
+    #players<-dbReadTable(DB, 'players')
+    r <- "SELECT kit_name AS Name, position, country from players;"
+    play <- dbGetQuery(DB, r)
     dbDisconnect(DB)
     
-    players
+    play
   })
   
   output$tblResults <- renderDataTable({
@@ -49,7 +51,15 @@ function(input, output, session) {
   
   output$tblScores <- renderDataTable({
     DB <- connectDB()
-    scores<-dbReadTable(DB, 'scores')
+    t<-"SELECT kit_name AS name, sum(assists) AS total, club
+    from players
+    natural join teams
+    natural join scores
+    group by kit_name, club
+    having sum(assists) > 1
+    order by sum(assists) desc, kit_name;"
+    #dbReadTable(DB, 'scores')
+    scores <- dbGetQuery(DB, t)
     dbDisconnect(DB)
     
     scores
@@ -57,7 +67,8 @@ function(input, output, session) {
   
   output$tblStadiums <- renderDataTable({
     DB <- connectDB()
-    stadiums<-dbReadTable(DB, 'stadiums')
+    u<-"SELECT full_name AS stadium, capacity from stadiums;"
+    stadiums<-dbGetQuery(DB, u)
     dbDisconnect(DB)
     
     stadiums
@@ -65,12 +76,13 @@ function(input, output, session) {
   
   output$tblTeams <- renderDataTable({
     DB <- connectDB()
-    teams<-dbReadTable(DB, 'teams')
+    z<-"SELECT club, shorthand from teams;"
+    teams<-dbGetQuery(DB, z)
     dbDisconnect(DB)
     
     teams
   })
-
+  
   
   
 }
